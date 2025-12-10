@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "files.exclude": {
+    "node_modules": false // Keep this visible but greyed out usually
+  }
+}
